@@ -14,8 +14,6 @@
   <a href="mailto:moaaz0744@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36" alt="Email" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/moaaz-elhaiys-z1077"><img src="https://skillicons.dev/icons?i=linkedin" width="36" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://github.com/Moaaz-Elhaiys"><img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub" /></a>
 </p>
 
 ---
